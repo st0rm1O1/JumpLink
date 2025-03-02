@@ -2,7 +2,7 @@
   "name": "jump-link",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://st0rm1o1.github.io/JumpLink",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
