@@ -9,6 +9,7 @@ const LandingPage = () => {
         <div className="flex items-center justify-center bg-stone-200 min-w-screen max-w-screen min-h-screen max-h-screen">
             <div className="bg-white p-8 sm:p-16 w-11/12 sm:w-fit border-2 border-stone-200 rounded-2xl space-y-12">
                 <div className="space-y-4">
+                    {/* Jump Icon by yourtempo from svgrepo.com (MIT License) */}
                     <img src="/logo.svg" draggable={false} className="justify-self-center w-16 h-16"/>
                     <h1 className="font-bold text-4xl -tracking-wide text-center">JumpLink</h1>   
                 </div>
